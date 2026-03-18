@@ -7,3 +7,4 @@
 - tech-stack: 기술 스택 정리
 - workstyle: 업무 스타일 정리
 - favorites: 관심사 정리
+- 선호 환경: 조용하고 구조화된 환경
