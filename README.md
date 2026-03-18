@@ -11,3 +11,5 @@
 - tech-stack
 - workstyle
 - favorites
+## 한 줄 소개
+ML 서빙과 데이터 시스템 최적화를 좋아하는 엔지니어
