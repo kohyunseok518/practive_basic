@@ -11,3 +11,6 @@
 - tech-stack
 - workstyle
 - favorites
+
+## 한 줄 소개
+문제를 구조화해서 푸는 엔지니어
